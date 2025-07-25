@@ -1,0 +1,15 @@
+.swiper {
+    width: 100vw;
+    margin-top: 8vh;
+    height: 90%;
+}
+.text-div{
+    /* background-color: #0f602f7b; */
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+
+    /* Center slide text vertically */
+
+}
