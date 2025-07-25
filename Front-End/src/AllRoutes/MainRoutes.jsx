@@ -5,8 +5,8 @@ import Brands from "../Pages/Brands"
 import Museum from "../Pages/Museum"
 import Partners from "../Pages/Partners"
 import CR7 from "../Pages/CR7"
-import Register from "../forms/Register"
-import Login from '../forms/Login'
+import Register from "../Forms/Login"
+import Login from '../Forms/Login'
 import CreateProduct from "../Admin/CreateProduct"
 import Products from '../Products/Products'
 import ProductDetails from '../Products/ProductDetails'
