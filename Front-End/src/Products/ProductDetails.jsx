@@ -1,5 +1,5 @@
 import { useForm } from 'react-hook-form';
-import "../stylesheet/ProductDetail.css"
+import "../stylesheet/productDetail.css"
 import { FaRupeeSign } from "react-icons/fa";
 import { useDispatch, useSelector } from 'react-redux'
 import { useParams } from 'react-router-dom';
